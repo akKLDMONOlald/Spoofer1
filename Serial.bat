@@ -1,6 +1,6 @@
 @echo off
 cls
-mode con: cols=80 lines=30
+mode con: cols=40 lines=31
 title Burgies I Serials
 
 echo ==========================
